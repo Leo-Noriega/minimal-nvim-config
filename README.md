@@ -1,4 +1,3 @@
-## Links
 # My-Neovim-Config
 ![image](https://user-images.githubusercontent.com/85385095/235286789-cd635236-69e9-4d0a-82ca-34d2abebffca.png)
 #### This is my extra minimal neovim config that I use everyday.
