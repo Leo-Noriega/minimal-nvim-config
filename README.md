@@ -6,6 +6,6 @@ It is **heavy** inspired (elegant way to avoid the word **copied**) by ThePrimea
 Also I mainly use **Java** beacuse that's what I'm learning in college (yes, I know), so if for whatever reason you decide to use this config, feel free to install the LSP of the language you use with :Mason command.
 
 ### TODOs
-* Add a coc-java
-* Add lua-line or a alternative
-* Some shortcuts for Java
+* Add coc-java
+* Add lua-line or an alternative
+* Some shortcuts for Java development
